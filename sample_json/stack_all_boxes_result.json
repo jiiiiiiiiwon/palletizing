@@ -1,0 +1,572 @@
+[
+    {
+        "box_id": 0,
+        "box_loc": [
+            170,
+            89,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 1,
+        "box_loc": [
+            449,
+            58,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 2,
+        "box_loc": [
+            726,
+            110,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 3,
+        "box_loc": [
+            217,
+            242,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 4,
+        "box_loc": [
+            632,
+            391,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 5,
+        "box_loc": [
+            240,
+            696,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 6,
+        "box_loc": [
+            710,
+            621,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 7,
+        "box_loc": [
+            735,
+            440,
+            205
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 8,
+        "box_loc": [
+            699,
+            868,
+            205
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 9,
+        "box_loc": [
+            965,
+            327,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 10,
+        "box_loc": [
+            101,
+            400,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 11,
+        "box_loc": [
+            719,
+            797,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 12,
+        "box_loc": [
+            250,
+            820,
+            645
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 13,
+        "box_loc": [
+            136,
+            941,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 14,
+        "box_loc": [
+            235,
+            696,
+            295
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 15,
+        "box_loc": [
+            969,
+            50,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 16,
+        "box_loc": [
+            331,
+            298,
+            385
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 17,
+        "box_loc": [
+            689,
+            104,
+            365
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 18,
+        "box_loc": [
+            234,
+            428,
+            615
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 19,
+        "box_loc": [
+            337,
+            395,
+            115
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 20,
+        "box_loc": [
+            751,
+            843,
+            645
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 21,
+        "box_loc": [
+            671,
+            362,
+            685
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 22,
+        "box_loc": [
+            161,
+            773,
+            820
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 23,
+        "box_loc": [
+            693,
+            197,
+            835
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 24,
+        "box_loc": [
+            720,
+            501,
+            835
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 25,
+        "box_loc": [
+            191,
+            135,
+            935
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 26,
+        "box_loc": [
+            206,
+            388,
+            935
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 27,
+        "box_loc": [
+            121,
+            977,
+            820
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 28,
+        "box_loc": [
+            153,
+            966,
+            285
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 29,
+        "box_loc": [
+            606,
+            559,
+            1080
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 30,
+        "box_loc": [
+            520,
+            861,
+            1080
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 31,
+        "box_loc": [
+            872,
+            871,
+            1080
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 32,
+        "box_loc": [
+            460,
+            966,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 33,
+        "box_loc": [
+            607,
+            137,
+            1205
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 34,
+        "box_loc": [
+            724,
+            576,
+            685
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 35,
+        "box_loc": [
+            244,
+            841,
+            1305
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 36,
+        "box_loc": [
+            100,
+            92,
+            470
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 37,
+        "box_loc": [
+            846,
+            999,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 38,
+        "box_loc": [
+            171,
+            406,
+            1140
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 39,
+        "box_loc": [
+            924,
+            495,
+            1010
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 40,
+        "box_loc": [
+            561,
+            423,
+            1490
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 42,
+        "box_loc": [
+            956,
+            488,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 43,
+        "box_loc": [
+            723,
+            791,
+            1550
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 45,
+        "box_loc": [
+            164,
+            92,
+            1400
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 46,
+        "box_loc": [
+            326,
+            76,
+            470
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 47,
+        "box_loc": [
+            1002,
+            766,
+            125
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 48,
+        "box_loc": [
+            196,
+            960,
+            525
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 50,
+        "box_loc": [
+            95,
+            255,
+            390
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 51,
+        "box_loc": [
+            172,
+            631,
+            1305
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 53,
+        "box_loc": [
+            584,
+            418,
+            1610
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 54,
+        "box_loc": [
+            96,
+            390,
+            390
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 57,
+        "box_loc": [
+            229,
+            648,
+            1690
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 58,
+        "box_loc": [
+            211,
+            1015,
+            1300
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 64,
+        "box_loc": [
+            364,
+            976,
+            820
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 66,
+        "box_loc": [
+            945,
+            113,
+            1205
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 68,
+        "box_loc": [
+            909,
+            651,
+            1080
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 74,
+        "box_loc": [
+            933,
+            297,
+            1205
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    }
+]

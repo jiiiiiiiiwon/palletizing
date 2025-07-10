@@ -1,0 +1,362 @@
+[
+    {
+        "box_id": 76,
+        "box_loc": [
+            764,
+            847,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 75,
+        "box_loc": [
+            799,
+            319,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 79,
+        "box_loc": [
+            778,
+            840,
+            689
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 77,
+        "box_loc": [
+            757,
+            307,
+            689
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 39,
+        "box_loc": [
+            259,
+            377,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 64,
+        "box_loc": [
+            233,
+            852,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 62,
+        "box_loc": [
+            211,
+            362,
+            442
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 69,
+        "box_loc": [
+            236,
+            860,
+            444
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 22,
+        "box_loc": [
+            851,
+            344,
+            1237
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 16,
+        "box_loc": [
+            316,
+            855,
+            834
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 25,
+        "box_loc": [
+            244,
+            367,
+            877
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 49,
+        "box_loc": [
+            262,
+            378,
+            1229
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 3,
+        "box_loc": [
+            950,
+            869,
+            1296
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 6,
+        "box_loc": [
+            679,
+            853,
+            1296
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 36,
+        "box_loc": [
+            447,
+            862,
+            1313
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 63,
+        "box_loc": [
+            892,
+            358,
+            1521
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 54,
+        "box_loc": [
+            189,
+            948,
+            1313
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 51,
+        "box_loc": [
+            550,
+            399,
+            1521
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 2,
+        "box_loc": [
+            57,
+            539,
+            1229
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 42,
+        "box_loc": [
+            213,
+            79,
+            1229
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 12,
+        "box_loc": [
+            88,
+            975,
+            834
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 53,
+        "box_loc": [
+            513,
+            325,
+            1237
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 10,
+        "box_loc": [
+            278,
+            97,
+            0
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 47,
+        "box_loc": [
+            860,
+            55,
+            1237
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 48,
+        "box_loc": [
+            240,
+            60,
+            354
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 27,
+        "box_loc": [
+            273,
+            429,
+            1636
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 70,
+        "box_loc": [
+            223,
+            62,
+            768
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 73,
+        "box_loc": [
+            1004,
+            867,
+            1653
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 59,
+        "box_loc": [
+            856,
+            54,
+            1579
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 57,
+        "box_loc": [
+            92,
+            752,
+            834
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 31,
+        "box_loc": [
+            259,
+            720,
+            1313
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 52,
+        "box_loc": [
+            274,
+            136,
+            1682
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 15,
+        "box_loc": [
+            545,
+            104,
+            1467
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 72,
+        "box_loc": [
+            305,
+            72,
+            1087
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 71,
+        "box_loc": [
+            54,
+            230,
+            1229
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    },
+    {
+        "box_id": 1,
+        "box_loc": [
+            111,
+            725,
+            1679
+        ],
+        "box_rot": 0,
+        "pallet_id": 1
+    }
+]
